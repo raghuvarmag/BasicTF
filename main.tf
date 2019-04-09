@@ -5,6 +5,6 @@ provider "azurerm" {
 
 # Create a new resource group
 resource "azurerm_resource_group" "rg" {
-    name     = "myTFResourceGroupDevNew999"
+    name     = "myTFResourceGroupDevNew1235"
     location = "eastus"
 }
